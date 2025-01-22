@@ -1,4 +1,4 @@
-# Differential Gene Expression (DGE) Analysis Comparison Report
+# Differential Gene Expression (DGE) Analysis Comparison
 
 ![Language](https://img.shields.io/badge/language-R-blue)
 ![Framework](https://img.shields.io/badge/framework-Bioconductor%2FedgeR%2C%20DESeq2%2C%20NOISeq%2C%20Limma%2Bvoom-orange)
