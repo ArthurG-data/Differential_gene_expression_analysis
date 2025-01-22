@@ -1,6 +1,6 @@
 #creates the necessary graph from the files
 
-setwd("C:/Users/lorie/OneDrive - Queensland University of Technology/Semester_2/IFN646_BiomedicalDataScience/assessments/project/Project")
+
 library(ggplot2)
 library(ggrepel)
 library(gridExtra)
