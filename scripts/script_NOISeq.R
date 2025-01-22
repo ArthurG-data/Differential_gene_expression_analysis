@@ -1,4 +1,4 @@
-setwd("C:/Users/lorie/OneDrive/Bureau/Semester_2/IFN646_BiomedicalDataScience/assessments/project/Project")
+
 library(NOISeq)
 library(dplyr)
 library(tibble)
