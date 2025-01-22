@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='432.50pt' height='253.50pt' viewBox='0 0 432.50 253.50'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MzIuNTB8MC4wMHwyNTMuNTA='>
+    <rect x='0.00' y='0.00' width='432.50' height='253.50' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MzIuNTB8MC4wMHwyNTMuNTA=)'>
+<rect x='0.00' y='0.00' width='432.50' height='253.50' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDIuOTN8MzQ2LjE3fDIzLjE4fDIyMC45Mw=='>
+    <rect x='42.93' y='23.18' width='303.24' height='197.75' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDIuOTN8MzQ2LjE3fDIzLjE4fDIyMC45Mw==)'>
+<rect x='42.93' y='23.18' width='303.24' height='197.75' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<polyline points='56.71,160.60 194.55,132.67 332.39,119.96 ' style='stroke-width: 1.07; stroke: #F8766D; stroke-linecap: butt;' />
+<polyline points='56.71,87.49 194.55,68.73 332.39,56.72 ' style='stroke-width: 1.07; stroke: #7CAE00; stroke-linecap: butt;' />
+<polyline points='56.71,209.37 194.55,156.87 332.39,137.16 ' style='stroke-width: 1.07; stroke: #00BFC4; stroke-linecap: butt;' />
+<polyline points='56.71,137.51 194.55,200.54 332.39,184.26 ' style='stroke-width: 1.07; stroke: #C77CFF; stroke-linecap: butt;' />
+<polyline points='56.71,158.64 194.55,130.20 332.39,115.83 ' style='stroke-width: 1.07; stroke: #F8766D; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<polyline points='56.71,71.85 194.55,45.88 332.39,32.17 ' style='stroke-width: 1.07; stroke: #7CAE00; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<polyline points='56.71,211.94 194.55,157.93 332.39,135.59 ' style='stroke-width: 1.07; stroke: #00BFC4; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<polyline points='56.71,144.87 194.55,201.35 332.39,186.93 ' style='stroke-width: 1.07; stroke: #C77CFF; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0MzIuNTB8MC4wMHwyNTMuNTA=)'>
+<polyline points='42.93,220.93 42.93,23.18 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='38.00' y='218.42' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='38.00' y='167.99' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>1000</text>
+<text x='38.00' y='117.56' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>2000</text>
+<text x='38.00' y='67.14' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='19.58px' lengthAdjust='spacingAndGlyphs'>3000</text>
+<polyline points='40.19,215.27 42.93,215.27 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='40.19,164.84 42.93,164.84 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='40.19,114.41 42.93,114.41 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='40.19,63.99 42.93,63.99 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='42.93,220.93 346.17,220.93 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='56.71,223.67 56.71,220.93 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='194.55,223.67 194.55,220.93 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='332.39,223.67 332.39,220.93 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text transform='translate(61.17,230.32) rotate(-45)' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>3</text>
+<text transform='translate(199.00,230.32) rotate(-45)' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text transform='translate(336.84,230.32) rotate(-45)' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arial";' textLength='4.90px' lengthAdjust='spacingAndGlyphs'>9</text>
+<text x='194.55' y='245.70' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='97.24px' lengthAdjust='spacingAndGlyphs'>Number of Samples</text>
+<text transform='translate(13.36,122.05) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='133.96px' lengthAdjust='spacingAndGlyphs'>Number of Detected Genes</text>
+<rect x='357.13' y='74.18' width='69.89' height='95.75' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='392.07' y='88.69' text-anchor='middle' style='font-size: 11.00px; font-family: "Arial";' textLength='23.24px' lengthAdjust='spacingAndGlyphs'>tools</text>
+<line x1='364.34' y1='103.97' x2='378.16' y2='103.97' style='stroke-width: 1.07; stroke: #F8766D; stroke-linecap: butt;' />
+<line x1='364.34' y1='103.97' x2='378.16' y2='103.97' style='stroke-width: 1.07; stroke: #F8766D; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<line x1='364.34' y1='121.25' x2='378.16' y2='121.25' style='stroke-width: 1.07; stroke: #7CAE00; stroke-linecap: butt;' />
+<line x1='364.34' y1='121.25' x2='378.16' y2='121.25' style='stroke-width: 1.07; stroke: #7CAE00; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<line x1='364.34' y1='138.53' x2='378.16' y2='138.53' style='stroke-width: 1.07; stroke: #00BFC4; stroke-linecap: butt;' />
+<line x1='364.34' y1='138.53' x2='378.16' y2='138.53' style='stroke-width: 1.07; stroke: #00BFC4; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<line x1='364.34' y1='155.81' x2='378.16' y2='155.81' style='stroke-width: 1.07; stroke: #C77CFF; stroke-linecap: butt;' />
+<line x1='364.34' y1='155.81' x2='378.16' y2='155.81' style='stroke-width: 1.07; stroke: #C77CFF; stroke-dasharray: 2.85,2.85,8.54,2.85; stroke-linecap: butt;' />
+<text x='385.37' y='107.12' style='font-size: 8.80px; font-family: "Arial";' textLength='32.77px' lengthAdjust='spacingAndGlyphs'>DESeq2</text>
+<text x='385.37' y='124.40' style='font-size: 8.80px; font-family: "Arial";' textLength='25.93px' lengthAdjust='spacingAndGlyphs'>edgeR</text>
+<text x='385.37' y='141.68' style='font-size: 8.80px; font-family: "Arial";' textLength='36.17px' lengthAdjust='spacingAndGlyphs'>limmaAG</text>
+<text x='385.37' y='158.96' style='font-size: 8.80px; font-family: "Arial";' textLength='29.84px' lengthAdjust='spacingAndGlyphs'>NOIseq</text>
+<text x='194.55' y='14.93' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='359.76px' lengthAdjust='spacingAndGlyphs'>Effect of Low Count Filtering on the Number of Detected DEG</text>
+</g>
+</svg>

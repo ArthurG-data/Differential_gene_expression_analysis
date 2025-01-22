@@ -1,0 +1,7 @@
+Questions :
+Do we need to compute the sensibility with our without the genes removed
+
+download in bibtex in text file, and use\cite{firstParameter}
+
+Introduction=> concordance =>  
+
