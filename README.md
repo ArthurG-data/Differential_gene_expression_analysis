@@ -1,3 +1,7 @@
+<p>
+   <img src="assets/img/banner.webp" alias="banner">
+</p>
+
 # Differential Gene Expression (DGE) Analysis Comparison
 
 ![Language](https://img.shields.io/badge/language-R-blue)
