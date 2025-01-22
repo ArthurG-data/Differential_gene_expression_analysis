@@ -74,7 +74,7 @@ The pipelines processed count matrices to detect DEGs. Outputs were compared bas
 - **NOISeq** struggled with higher sample sizes due to its reliance on non-parametric methods.
 
 <p>
-  <img src="sens_vs_spec_4_models.png">
+  <img src="figures/sens_vs_spec_4_models.png">
 </p>
 
 ### Runtime Efficiency
@@ -82,7 +82,7 @@ The pipelines processed count matrices to detect DEGs. Outputs were compared bas
 - **NOISeq** exhibited the slowest runtime for small sample sizes due to additional computational steps.
 
 <p>
-  <img src="runtime-Analysis.png">
+  <img src="figures/runtime-Analysis.png">
 </p>
 
 ### Concordance
@@ -90,7 +90,7 @@ The pipelines processed count matrices to detect DEGs. Outputs were compared bas
 - **NOISeq** outputs were often unique and less consistent as sample sizes increased.
 
 <p>
-  <img src="9_samples_concordance.png">
+  <img src="figures/9_samples_concordance.png">
 </p>
 
 ---
