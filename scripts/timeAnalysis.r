@@ -1,5 +1,5 @@
 ##The goal is to compare runtime for different tools
-setwd("C:/Users/lorie/OneDrive/Bureau/Semester_2/IFN646_BiomedicalDataScience/assessments/project/Project")
+
 library(DESeq2)
 library(dplyr)
 library(tibble)
