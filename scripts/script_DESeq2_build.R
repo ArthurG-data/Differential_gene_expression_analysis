@@ -11,8 +11,7 @@ library(ggplot2)
 library(ggrepel)
 library(DEGreport)
 ##directory toward the folder
-setwd("C:/Users/lorie/OneDrive/Bureau/Semester_2/IFN646_BiomedicalDataScience/assessments/project/Project")
-## Load in data
+
 MetaCreator <- function(input_string)
 {
   #split string on underscore
