@@ -1,6 +1,6 @@
 # Differential Gene Expression (DGE) Analysis Comparison Report
 
-![Language](https://img.shields.io/badge/language-R%2FPython-blue)
+![Language](https://img.shields.io/badge/language-R-blue)
 ![Framework](https://img.shields.io/badge/framework-Bioconductor%2FedgeR%2C%20DESeq2%2C%20NOISeq%2C%20Limma%2Bvoom-orange)
 ![Status](https://img.shields.io/badge/status-Completed-success)
 
