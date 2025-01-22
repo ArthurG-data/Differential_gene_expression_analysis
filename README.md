@@ -91,6 +91,7 @@ The pipelines processed count matrices to detect DEGs. Outputs were compared bas
 
 <p>
   <img src="figures/9_samples_concordance.png">
+   <img src="Rplot.png">
 </p>
 
 ---
