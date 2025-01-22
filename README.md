@@ -82,7 +82,7 @@ The pipelines processed count matrices to detect DEGs. Outputs were compared bas
 - **NOISeq** exhibited the slowest runtime for small sample sizes due to additional computational steps.
 
 <p>
-  <img src="figures/runtime-Analysis.png">
+  <img src="figures/runtime Analysis.png">
 </p>
 
 ### Concordance
